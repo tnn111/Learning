@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Image files that are probably large
+
+*.png
